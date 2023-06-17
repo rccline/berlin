@@ -1,0 +1,47 @@
+---
+title: "Preußisches Berlin Zusammenfassung"
+author: "Robert Cline"
+date: "2023-06-16"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Zusammenfassung:
+
+- Das Thema "Preußisches Berlin" ist komplex, und die Aufgabe, es zusammenzufassen, scheint unmöglich.
+- Die preußische Geschichte wird in verschiedenen Zeiten präsentiert, um einen Einblick in die Entwicklung der Stadt innerhalb ihres historischen Kontextes zu geben.
+- In der frühen mittelalterlichen Zeit war die Region Brandenburg Teil des Heiligen Römischen Reiches und von slawischen Stämmen bewohnt.
+- Der Deutsche Orden spielte eine bedeutende Rolle bei der territorialen Expansion der Markgrafschaft Brandenburg.
+- Das Haus Hohenzollern übernahm im Jahr 1415 das Kurfürstentum Brandenburg und begann die Hohenzollern-Herrschaft.
+- Berlin wurde im Jahr 1417 zur Hauptstadt und zum Verwaltungszentrum der Mark Brandenburg.
+- Die Hohenzollern-Dynastie erweiterte ihre Gebiete durch strategische Heiraten, Käufe und Erbschaften.
+- Preußen wuchs im 18. und 19. Jahrhundert und bildete die Grundlage des Deutschen Kaiserreichs.
+- Berlin wurde im Jahr 1237 gegründet und das Wort "Berlin" stammt wahrscheinlich von der proto-slawischen Wurzel "berl-", was "Bär" bedeutet.
+- Berlin wurde zur Hauptstadt des Königreichs Preußen und spielte eine entscheidende Rolle in der Geschichte Preußens.
+- Friedrich Wilhelm, der Große Kurfürst, regierte Brandenburg-Preußen und führte bedeutende Verwaltungs-, Militär- und Wirtschaftsreformen durch.
+- Friedrich Wilhelm erweiterte und befestigte Berlin, baute das Berliner Stadtschloss und machte Berlin zum Hauptwohnsitz.
+- Das Berliner Stadtschloss wurde im Zweiten Weltkrieg zerstört, aber das Humboldt Forum wurde an derselben Stelle wiederaufgebaut.
+- Preußen spielte eine entscheidende Rolle bei der deutschen Einigung und der Bildung des Deutschen Kaiserreichs.
+- Preußen verlor seine Monarchie nach dem Ersten Weltkrieg und wurde 1947 aufgelöst.
+- Das Brandenburger Tor wurde 1791 fertiggestellt und steht symbolisch für Freiheit, Demokratie und Menschenrechte.
+- Preußen hat einen tiefen Einfluss auf die europäische Geschichte hinterlassen und sein Erbe wird in der Geschichte Deutschlands und Europas weiterhin untersucht und in Erinnerung behalten.
+
+
+adligen Herrscher - noble ruler 
+regiert - ruled 
+Kreuzzuge - Crusades 
+einheimischen - local/native
+rerieten under die Kontrolle - fell under the control 
+strebte - strived
+erschlossenen Gebieten Bauernhofe - opened up, developed
+Landzuschuschussen - Land Grants 
+erlangte das Haus - obtained the house
+adligen - nobility  
+Adelsfamilie - family of nobility  
+leitete ihren Name Derived their name  
+er loste den Orden auf = auflosen = 
+Herzogtum - ruled by a Duke  
+kurfrust - Electorate   
