@@ -26,15 +26,44 @@ knitr::opts_chunk$set(echo = FALSE)
 
     ![](images/Margrave-in-HRE_1356-1806.png){width="474"}
 
-    Abbildung 1. Region Brandenburg war Teil des Heiligen Römischen
-    Reiches.
+#### **Abbildung 1. Region Brandenburg war Teil des Heiligen Römischen Reiches**.
 
+\newpage  
+
+## **Der Deutsche Orden**  
 -   Der Deutsche Orden spielte eine bedeutende Rolle bei der
     territorialen Expansion der Markgrafschaft Brandenburg.
 
     ![](images/Teutonic_Order_1260.png)
 
-    Abbildung 2. Deutsche Orden
+#### **Abbildung 2. Deutsche Orden**  
+
+<br>  
+
+
+
+![](images/900px-Straßennetz_und_Städte_Mark_Brandenburg_1648.png)
+
+<br>
+
+#### **Abbildung 3. Mark Brandenburg 1648**
+
+\newpage  
+
+## **Die Gründung der Stadt Berlin**
+
+-   Berlin wurde im Jahr 1237 gegründet und das Wort "Berlin" stammt
+    wahrscheinlich von der proto-slawischen Wurzel "berl-", was "Bär"
+    bedeutet.
+
+    ![](images/coat_of_arms_1280.png)
+
+
+**Abbildung 4. Berlin war in 1237 Gegrüunded: Wappen der Stadt Berlins 1280**.
+
+\newpage  
+
+## **Das Haus Hohenzollern**
 
 -   Das Haus Hohenzollern übernahm im Jahr 1415 das Kurfürstentum
     Brandenburg und begann die Hohenzollern-Herrschaft.
@@ -45,74 +74,92 @@ knitr::opts_chunk$set(echo = FALSE)
 -   Die Hohenzollern-Dynastie erweiterte ihre Gebiete durch strategische
     Heiraten, Käufe und Erbschaften.
 
-    ![](images/900px-Straßennetz_und_Städte_Mark_Brandenburg_1648.png)
-
-Abteilung 3. Mark Brandenburg 1648
+<!-- -->
 
 -   Preußen wuchs im 18. und 19. Jahrhundert und bildete die Grundlage
     des Deutschen Kaiserreichs.
 
-    ![](images/Preussen_1900.png) Abbildung 4. Preussen 1900.
+![](images/Preussen_1900.png) 
+## **Vereignten Deutschen Reiches**  
 
--   Berlin wurde im Jahr 1237 gegründet und das Wort "Berlin" stammt
-    wahrscheinlich von der proto-slawischen Wurzel "berl-", was "Bär"
-    bedeutet.
-
-    ![](images/coat_of_arms_1280.png)
-
-    Abbildung 5. Berlin war in 1237 Gegr&uuml;unded: Wappen der Stadt
-    Berlins 1280.
+#### **Abbildung 5. Preussen 1900**.
 
 -   Berlin wurde zur Hauptstadt des Königreichs Preußen und spielte eine
-    entscheidende Rolle in der Geschichte Preußens.
+    entscheidende Rolle in der Geschichte Preußens.  
+    
+
+\newpage  
+
+## **Preu&szlig;en als eignenst&auml;ndige Einheit**    
 
 -   Friedrich Wilhelm, der Große Kurfürst, regierte Brandenburg-Preußen
     und führte bedeutende Verwaltungs-, Militär- und Wirtschaftsreformen
-    durch.
-
-![](images/1024px-Kurfürst_Friedrich_Wilhelm_von_Brandenburg_4.jpeg)
-
-Abbildung 6. Friedrich Wilhelm von Brandenburg, der Große Kurfürst
-
+    durch.  
+    
 -   Fredrich Wilhelm erweiterte und befestigte Berlin, baute das
     Berliner Stadtschloss und machte Berlin zum Hauptwohnsitz.
 
-```{=html}
-<!-- -->
-```
--   ![](images/Berliner_Stadtsschloss.png)Abbildung 7. Berliner
-    Stadtschloss.
+![](images/1024px-Kurfürst_Friedrich_Wilhelm_von_Brandenburg_4.jpeg)
 
-```{=html}
+#### **Abbildung 6. Friedrich Wilhelm von Brandenburg, der Große Kurfürst**
+
+
+
+<!-- -->  
+
+\newpage 
+
+## **Berliner Stadschloss**  
+
+-   ![](images/Berliner_Stadtsschloss.png)  
+
+#### **Abbildung 7. Berliner Stadtschloss**.
+
 <!-- -->
-```
+
 -   Das Berliner Stadtschloss wurde im Zweiten Weltkrieg zerstört, aber
     das Humboldt Forum wurde an derselben Stelle wiederaufgebaut.
 
     ![](images/Humbolt_Forum_staatsmuseum.png)
 
-    Abbildung 8. Humbolt Forum und Staatliches Museeum.
+#### **Abbildung 8. Humbolt Forum und Staatliches Museum**.  
 
 -   Preußen spielte eine entscheidende Rolle bei der deutschen Einigung
     und der Bildung des Deutschen Kaiserreichs.
 
 -   Preußen verlor seine Monarchie nach dem Ersten Weltkrieg und wurde
-    1947 aufgelöst.
+    1947 aufgelöst.  
+    
+    
+\newpage  
+    
+## **Das Brandenburger Tor**  
 
 -   Das Brandenburger Tor wurde 1791 fertiggestellt und steht symbolisch
     für Freiheit, Demokratie und Menschenrechte.
 
     ![](images/Brandenburger_tor_1871.jpg)
 
-    Abbildung 9. Brandenburger Tor im in 1871 Nach dem
-    Deutsch-Französischen Krieg.
+#### **Abbildung 9. Brandenburger Tor im in 1871 Nach dem Deutsch-Französischen Krieg**.
 
--   Pru&szlig;en hat einen tiefen Einfluss auf die europäische
-    Geschichte hinterlassen und sein Erbe wird in der Geschichte
-    Deutschlands und Europas weiterhin untersucht und in Erinnerung
-    behalten.
+-   Prußen hat einen tiefen Einfluss auf die europäische Geschichte
+    hinterlassen und sein Erbe wird in der Geschichte Deutschlands und
+    Europas weiterhin untersucht und in Erinnerung behalten.
 
-**Wortschatz**
+\newpage
+
+
+**Wortschatz** 
+
+widmen - devote  
+
+uberwiegend heidnich - presominately pagen  
+
+Margraffen (pl) - Eng. Margrave; hereditary nobleman of authority who defends territory  
+
+nach und nach - step by step  
+
+Erbshaften - Inheritances  
 
 adligen Herrscher - noble ruler regiert - ruled
 
@@ -130,10 +177,14 @@ Landzuschuschussen - Land Grants
 
 erlangte das Haus - obtained the house
 
-adligen - nobility \
-Adelsfamilie - family of nobility \
-leitete ihren Name Derived their name \
-er loste den Orden auf = auflosen = Herzogtum - ruled by a Duke\
+adligen - nobility
+
+Adelsfamilie - family of nobility
+
+leitete ihren Name Derived their name
+
+er loste den Orden auf = auflosen = Herzogtum - ruled by a Duke
+
 kurfrust - Electorate
 
 ```{r echo=FALSE}
