@@ -38,28 +38,30 @@ knitr::opts_chunk$set(echo = FALSE)
 
 #### **Abbildung 2. Deutsche Orden**  
 
-<br>  
-
-
-
-![](images/900px-Straßennetz_und_Städte_Mark_Brandenburg_1648.png)
-
-<br>
-
-#### **Abbildung 3. Mark Brandenburg 1648**
-
 \newpage  
 
 ## **Die Gründung der Stadt Berlin**
 
--   Berlin wurde im Jahr 1237 gegründet und das Wort "Berlin" stammt
+-   Berlin wurde im Jahr 1237 gegr&uuml;ndet und das Wort "Berlin" stammt
     wahrscheinlich von der proto-slawischen Wurzel "berl-", was "Bär"
     bedeutet.
 
     ![](images/coat_of_arms_1280.png)
 
 
-**Abbildung 4. Berlin war in 1237 Gegrüunded: Wappen der Stadt Berlins 1280**.
+**Abbildung 3. Berlin war in 1237 Gegrüunded: Wappen der Stadt Berlins 1280**.
+
+<br>  
+
+\newpage
+
+![](images/900px-Straßennetz_und_Städte_Mark_Brandenburg_1648.png)
+
+<br>
+
+#### **Abbildung 4. Mark Brandenburg 1648**
+
+
 
 \newpage  
 
@@ -152,6 +154,7 @@ knitr::opts_chunk$set(echo = FALSE)
 **Wortschatz** 
 
 widmen - devote  
+
 
 uberwiegend heidnich - presominately pagen  
 
