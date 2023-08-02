@@ -11,15 +11,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **Einleitung**
 
-Das Thema *Preußisches Berlin* ist äußerst komplex. Ich hätte genauso gut auch "Die Geschichte der Welt in zwei Seiten" wählen können. Kurz gesagt, die Aufgabe ist unmöglich. Dennoch kann ich hier einige Einblicke in die preußische Geschichte zu verschiedenen Zeiten präsentieren, um einen Eindruck davon zu vermitteln, wie sich die Stadt innerhalb ihres historischen Kontextes entwickelt hat. Es ist vergleichbar mit der Auswahl von zwei oder drei Seiten aus Millionen von Seiten, um einen Überblick über ein Thema zu erhalten. Man könnte sein ganzes Leben diesem Thema widmen. In diesem Kontext beginne ich
+Das Thema *Preußisches Berlin* ist äußerst komplex. Ich hätte genauso gut auch "Die Geschichte der Welt in zwei Seiten" wählen können. Kurz gesagt, die Aufgabe ist unmöglich. Dennoch möchte ich hier einige Einblicke in die preußische Geschichte zu verschiedenen Zeiten präsentieren, um einen Eindruck davon zu vermitteln, wie sich die Stadt innerhalb ihres historischen Kontextes entwickelt hat. Es gleicht der Auswahl von zwei oder drei Seiten aus Millionen von Seiten, um einen Überblick über ein Thema zu erhalten. Man könnte sein ganzes Leben diesem Thema widmen. In diesem Kontext beginne ich
 
 **Abbildung 1**
 
-Während der frühen mittelalterlichen Zeit war die Region Brandenburg Teil des Heiligen Römischen Reiches. Die Region war überwiegend heidnisch, und der Einfluss der katholischen Kirche war begrenzt. Die Region wurde von verschiedenen slawischen Stämmen bewohnt, bevor im Hochmittelalter deutsche Siedler ankamen. Die deutschen Markgrafen waren Vasallen des Heiligen Römischen Reiches, vom Heiligen Römischen Kaiser ernannt. Die Markgrafen weiteten nach und nach ihren Einfluss auf das Territorium aus. Der Titel "Markgraf" bezeichnete einen adligen Herrscher, der für die Verteidigung der Grenzgebiete verantwortlich war [@margrave_margrave_nodate].
+Während der frühen mittelalterlichen Zeit war die Region Brandenburg Teil des Heiligen Römischen Reiches. Die Region war überwiegend heidnisch, und der Einfluss der katholischen Kirche war begrenzt. Die Region wurde von verschiedenen slawischen Stämmen bewohnt, bevor im Hochmittelalter deutsche Siedler ankamen. Die deutschen Markgrafen waren Vasallen des Heiligen Römischen Reiches, inhaltlich- vom Heiligen Römischen Kaiser ernannt. Die Markgrafen weiteten nach und nach ihren Einfluss auf das Territorium aus. Der Titel "Markgraf" bezeichnete einen adligen Herrscher, der für die Verteidigung der Grenzgebiete verantwortlich war [@margrave_margrave_nodate].
 
 **Abbildung 2**
 
-Der mittelalterliche Militärorden, der vom Heiligen Römischen Reich regiert wurde, war als **Deutschritter Orden** bekannt [@wikipedia_deutschritter_orden_2023]. Er wurde auch als **Deutscher Orden** bezeichnet, der während der Kreuzzüge gegründet wurde. Der Deutsche Orden spielte eine bedeutende Rolle bei der territorialen Expansion der Markgrafschaft.
+Der wärend der Kreuzzüge gegründete mittelalterliche Militärorden, der vom Heiligen Römischen Reich regiert wurde, war als **Deutschritter Orden** bekannt [@wikipedia_deutschritter_orden_2023]. Er wurde auch als **Deutscher Orden** bezeichnet, und wurde während der Kreuzzüge gegründet. Der Deutsche Orden spielte eine bedeutende Rolle bei der territorialen Expansion der Markgrafschaft.
 
 **Ursprung des Wortes "Preußen"**
 
@@ -31,13 +31,13 @@ Die Markgrafschaft Brandenburg strebte danach, die dünn besiedelten und oft fei
 
 **Abbildung 3** 
 
-Die Stadt Berlin wurde im Jahr 1237 gegründet und im Jahr 1280 zeigte das Wappen der Stadt einen braunen Bären, einen schwarzen Bären, einen Adler und den Helm des Markgrafen [@wikipedia_berlins_nodate]. Es wird angenommen, dass das Wort Berlin aus dem Ostslawischen stammt, von der proto-slawischen Wurzel berl-/berl-, was "Bär" bedeutet [@wikipedia_berlin_history_2023]. Was symbolisiert der Bär? Der Bär ist das, was den Honig besitzt; das heißt, dasjenige, was alles besitzt, was süß ist. *Berlin enthielt alles, was süß ist*. Im Jahr 1956 wurde ein ähnliches Wappen von der Stadt übernommen.
+Die Stadt Berlin wurde 1237 gegründet und 1280 zeigte das Wappen der Stadt einen braunen Bären, einen schwarzen Bären, einen Adler und den Helm des Markgrafen [@wikipedia_berlins_nodate]. Es wird angenommen, dass das Wort Berlin aus dem Ostslawischen stammt, von der proto-slawischen Wurzel berl-/berl-, was "Bär" bedeutet [@wikipedia_berlin_history_2023]. Was symbolisiert der Bär? Der Bär besitz den Honig; das heißt, derjenige, der alles Süße besitz. *Berlin symbolisiert alles, was süß ist*. 1956 wurde ein ähnliches Wappen von der Stadt übernommen.
 
 **Abbildung 4** 
 
 **Haus Hohenzollern**
 
-Im Jahr 1415 erlangte das Haus Hohenzollern, eine Adelsfamilie schwäbischer Herkunft, das Kurfürstentum Brandenburg. Dies markierte den Beginn der Hohenzollern-Herrschaft in Brandenburg. Die Hohenzollern-Dynastie stammte aus Schwaben, genauer gesagt vom Hohenzollern-Schloss [@wikipedia_hohenzollern_2023], und leitete ihren Namen von diesem Schloss ab. Die herrschenden Klassen Europas waren eng miteinander verwandt. Die Hohenzollern-Familie hatte Verbindungen zur Habsburger-Dynastie. Die Hohenzollern-Dynastie erweiterte ihre Gebiete erheblich durch strategische Heiraten, Käufe und Erbschaften[@pollak_house_2018].
+1415 erlangte das Haus Hohenzollern, eine Adelsfamilie schwäbischer Herkunft, das Kurfürstentum Brandenburg. Dies markierte den Beginn der Hohenzollern-Herrschaft in Brandenburg. Die Hohenzollern-Dynastie stammte aus Schwaben, genauer gesagt vom Hohenzollern-Schloss [@wikipedia_hohenzollern_2023], und leitete ihren Namen von diesem Schloss ab. Die herrschenden Klassen Europas waren eng miteinander verwandt. Die Hohenzollern-Familie hatte Verbindungen zur Habsburger-Dynastie. Die Hohenzollern-Dynastie erweiterte ihre Gebiete erheblich durch strategische Ehen, Käufe und Erbschaften [@pollak_house_2018].
 
 **Abbildung 5** 
 
@@ -45,25 +45,25 @@ Im Jahr 1415 erlangte das Haus Hohenzollern, eine Adelsfamilie schwäbischer Her
 
 <!--- Maps of Brandenburg https://en.wikipedia.org/wiki/Margraviate_of_Brandenburg -->
 
-Während der Herrschaft der Hohenzollern-Dynastie entwickelte sich Berlin im Jahr 1417 zur Hauptstadt und zum Verwaltungszentrum der Mark Brandenburg und später von Brandenburg-Preußen und dem Königreich Preußen. Preußen wuchs im 18. und 19. Jahrhundert und bildete die Grundlage des Deutschen Kaiserreichs im Jahr 1871. Napoleons Kriege zwischen 1806 und 1815 hatten einen tiefgreifenden Einfluss auf Preußen. Das Kaiserreich sollte bis 1918 überleben, als es im Ersten Weltkrieg besiegt wurde.
+Während der Herrschaft der Hohenzollern-Dynastie entwickelte sich Berlin 1417 zur Hauptstadt und zum Verwaltungszentrum der Mark Brandenburg und später von Brandenburg-Preußen und dem Königreich Preußen. Preußen wuchs im 18. und 19. Jahrhundert und bildete die Grundlage des Deutschen Kaiserreichs 1871. Napoleons Kriege zwischen 1806 und 1815 hatten einen tiefgreifenden Einfluss auf Preußen. Das Kaiserreich sollte bis 1918 überleben, als es im Ersten Weltkrieg besiegt wurde.
 
 **Berlin als Hauptstadt von Brandenburg**
 
-Berlin wurde im Jahr 1417 zur Hauptstadt der Mark Brandenburg.[^1] Es lag strategisch günstig im Herzen der Markgrafschaft und gewann an Bedeutung als politisches, wirtschaftliches und kulturelles Zentrum. Im Laufe der Zeit entwickelte sich Berlin unter der Herrschaft der Markgrafen von Brandenburg zu einer bedeutenden Stadt.
+Berlin wurde 1417 zur Hauptstadt der Mark Brandenburg.[^1] Es lag strategisch günstig im Herzen der Markgrafschaft und gewann an Bedeutung als politisches, wirtschaftliches und kulturelles Zentrum. Im Laufe der Zeit entwickelte sich Berlin unter der Herrschaft der Markgrafen von Brandenburg zu einer bedeutenden Stadt.
 
 [^1]: Mark Brandenburg" ist die historische Region, während "Markgrafen Brandenburg" ist die Herrscher der Region.
 
-Die Markgrafschaft Brandenburg und ihre Hauptstadt Berlin blieben bis zur Auflösung des Heiligen Römischen Reiches im Jahr 1806 unter französischer Besatzung Teil des Reiches. In ihrer Geschichte hatten Preußen und insbesondere die Region Brandenburg eine komplexe Beziehung zum Heiligen Römischen Reich. Berlins Status als Hauptstadt von Brandenburg trug zu seiner Bedeutung im Reich bei, und die Stadt blühte in den folgenden Jahrhunderten weiter auf und expandierte, um schließlich zur Hauptstadt des Königreichs Preußen und schließlich des vereinten Deutschen Reiches zu werden.
+Die Markgrafschaft Brandenburg und ihre Hauptstadt Berlin blieben bis zur Auflösung des Heiligen Römischen Reiches 1806 unter französischer Besatzung Teil des Reiches. In ihrer Geschichte hatten Preußen und insbesondere die Region Brandenburg eine komplexe Beziehung zum Heiligen Römischen Reich. Berlins Status als Hauptstadt von Brandenburg trug zu seiner Bedeutung im Reich bei, und die Stadt blühte in den folgenden Jahrhunderten weiter auf und expandierte, um schließlich zur Hauptstadt des Königreichs Preußen und schließlich des vereinten Deutschen Reiches zu werden.
 
 **Preußen als eigenständige Einheit**
 
-Im Jahr 1525 erfolgte eine Transformation des Staates der Deutschen Ritterorden. Albert von Brandenburg-Ansbach, der Hochmeister des Deutschen Ordens, trat zum Luthertum über und säkularisierte den Staat. Er löste den Orden auf und gründete das säkulare Herzogtum Preußen, wobei er sich selbst als Herzog anerkannte.[^2] Dies markierte den Beginn von Preußen als eigenständige Einheit.
+1525 erfolgte eine Transformation des Staates der Deutschen Ritterorden. Albert von Brandenburg-Ansbach, der Hochmeister des Deutschen Ordens, trat zum Luthertum über und säkularisierte den Staat. Er löste den Orden auf und gründete das säkulare Herzogtum Preußen, wobei er sich selbst als Herzog anerkannte.[^2] Dies markierte den Beginn von Preußen als eigenständige Einheit.
 
 [^2]: *Herzogtum* ist ein Territorium, das von einem Herzog regiert wird
 
 **Berlin als Hauptstadt von Brandenburg**
 
-Berlin, die Hauptstadt von Brandenburg, spielte eine entscheidende Rolle in der Geschichte Preußens. Im Jahr 1701 krönte sich Friedrich I, der Kurfürst von Brandenburg, zum König in Preußen und gründete das Königreich Preußen. Berlin wurde die Hauptstadt dieses neuen Königreichs. Die Bedeutung Berlins bei der Gründung Preußens lag in seiner strategischen Lage, der zentralisierten Verwaltung und seinem Potenzial als kulturelles und wirtschaftliches Zentrum.
+Berlin, die Hauptstadt von Brandenburg, spielte eine entscheidende Rolle in der Geschichte Preußens. 1701 krönte sich Friedrich I, der Kurfürst von Brandenburg, zum König in Preußen und gründete das Königreich Preußen. Berlin wurde die Hauptstadt dieses neuen Königreichs. Die Bedeutung Berlins bei der Gründung Preußens lag in seiner strategischen Lage, der zentralisierten Verwaltung und seinem Potenzial als kulturelles und wirtschaftliches Zentrum.
 
 **Abbildung 4** 
 
@@ -82,13 +82,13 @@ In Berlin erweiterte und befestigte Friedrich Wilhelm die Stadt und errichtete n
 Es ist erwähnenswert, dass der Große Kurfürst auch mehrere andere Residenzen in seinen Gebieten hatte, wie zum Beispiel das Potsdamer Schloss in Potsdam, das er als Sommerresidenz nutzte. Potsdam, in der Nähe von Berlin gelegen, entwickelte sich unter späteren Hohenzollern-Herrschern, einschließlich Friedrich dem Großen, zu einem wichtigen königlichen und kulturellen Zentrum. Während der Herrschaft von Friedrich Wilhelm dem Großen Kurfürsten war Berlin jedoch das Hauptdomizil und der Regierungssitz.
 -->
 ```
-Das ursprüngliche Berliner Stadtschloss, auch bekannt als Stadtschloss, war ein bedeutendes architektonisches Wahrzeichen in Berlin, Deutschland. Das ursprüngliche Schloss wurde jedoch im Zweiten Weltkrieg schwer beschädigt und später von der Regierung der DDR im Jahr 1950 abgerissen.
+Das ursprüngliche Berliner Stadtschloss, auch bekannt als Stadtschloss, war ein bedeutendes architektonisches Wahrzeichen in Berlin, Deutschland. Das ursprüngliche Schloss wurde jedoch im Zweiten Weltkrieg schwer beschädigt und später von der Regierung der DDR 1950 abgerissen.
 
 **Abbildung 8 (Humbolt Forum)** 
 
-Das **Berliner Schloss, jetzt als Humboldt Forum bezeichnet**, wurde im Jahr 2021 fertiggestellt. Das wiederaufgebaute Gebäude dient als kulturelles und Museumskomplex und beherbergt verschiedene Ausstellungsräume, Museen und kulturelle Institutionen. Es befindet sich an derselben Stelle, an der einst das ursprüngliche Berliner Stadtschloss stand, am Schlossplatz im Herzen von Berlin. Wenn Sie das Humboldt Forum besuchen, können Sie einen Eindruck von dem Reichtum der Region und der politischen und wirtschaftlichen Macht, die Friedrich Willhelm spielte. Im Jahr 1871 wurde unter der Führung von Otto von Bismarck das Königreich Preußen zur treibenden Kraft hinter der Bildung des Deutschen Kaiserreichs. Preußens militärische Stärke und politischer Einfluss waren entscheidend für die Konsolidierung der verschiedenen deutschen Staaten zu einer vereinigten Nation.
+Das **Berliner Schloss, jetzt als Humboldt Forum bezeichnet**, wurde 2021 fertiggestellt. Das wiederaufgebaute Gebäude dient als kulturelles und Museumskomplex und beherbergt verschiedene Ausstellungsräume, Museen und kulturelle Institutionen. Es befindet sich an derselben Stelle, an der einst das ursprüngliche Berliner Stadtschloss stand, am Schlossplatz im Herzen von Berlin. Wenn Sie das Humboldt Forum besuchen, können Sie einen Eindruck von dem Reichtum der Region und der politischen und wirtschaftlichen Macht, die Friedrich Willhelm spielte. 1871 wurde unter der Führung von Otto von Bismarck das Königreich Preußen zur treibenden Kraft hinter der Bildung des Deutschen Kaiserreichs. Preußens militärische Stärke und politischer Einfluss waren entscheidend für die Konsolidierung der verschiedenen deutschen Staaten zu einer vereinigten Nation.
 
-Nach dem Ersten Weltkrieg und der Abdankung von Kaiser Wilhelm II. im Jahr 1918 verlor Preußen seine Monarchie. Die Weimarer Republik wurde gegründet und Preußen wurde zu einem Freistaat innerhalb der neuen deutschen politischen Struktur.
+Nach dem Ersten Weltkrieg und der Abdankung von Kaiser Wilhelm II. 1918 verlor Preußen seine Monarchie. Die Weimarer Republik wurde gegründet und Preußen wurde zu einem Freistaat innerhalb der neuen deutschen politischen Struktur.
 
 Nach dem Zweiten Weltkrieg wurde Preußen 1947 vom Alliierten Kontrollrat aufgelöst, aufgrund seiner Verbindung zum Militarismus und zum Nationalsozialismus. Das Gebiet Preußens wurde aufgeteilt und in verschiedene Verwaltungsregionen eingegliedert.
 
@@ -96,7 +96,7 @@ Nach dem Zweiten Weltkrieg wurde Preußen 1947 vom Alliierten Kontrollrat aufgel
 **Abbildung 9 (Brandenburger Tor)** 
 **Brandenburger Tor**
 
-Der Bau des Brandenburger Tors begann im Jahr 1788 und wurde 1791 von Friedrich Wilhelm II., dem Enkel des Großen Kurfürsten, fertiggestellt.[^3] Der Name des Tores bezieht sich auf die nahe gelegene Region Brandenburg, die ein historisches Territorium im Heiligen Römischen Reich war. Es ist nicht direkt nach Albert von Brandenburg benannt, sondern nach der weiteren Region. Das Brandenburger Tor wird oft mit den Idealen von Freiheit, Demokratie und Menschenrechten in Verbindung gebracht. Für mich steht das Brandenburger Tor als Tor zwischen dem frühen Mittelalter und dem modernen deutschen Staat.
+Der Bau des Brandenburger Tors begann 1788 und wurde 1791 von Friedrich Wilhelm II., dem Enkel des Großen Kurfürsten, fertiggestellt.[^3] Der Name des Tores bezieht sich auf die nahe gelegene Region Brandenburg, die ein historisches Territorium im Heiligen Römischen Reich war. Es ist nicht direkt nach Albert von Brandenburg benannt, sondern nach der weiteren Region. Das Brandenburger Tor wird oft mit den Idealen von Freiheit, Demokratie und Menschenrechten in Verbindung gebracht. Für mich steht das Brandenburger Tor als Tor zwischen dem frühen Mittelalter und dem modernen deutschen Staat.
 
 [^3]: Der Begriff "Kurfürst" bezeichnet einen Fürsten oder Herrscher, der an der Wahl des Heiligen Römischen Kaisers teilnehmen durfte.
 
