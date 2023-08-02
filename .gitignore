@@ -46,4 +46,8 @@ docs/
 po/*~
 
 # RStudio Connect folder
-rsconnect/
+rsconnect/ 
+
+# Files  
+berlin.Rproj
+
